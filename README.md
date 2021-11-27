@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, welcome! 👋
 
 <!--
 **HerrYu123/HerrYu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
